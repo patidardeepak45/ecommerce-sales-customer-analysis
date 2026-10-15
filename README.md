@@ -52,3 +52,22 @@ The goal is to transform raw data into meaningful business insights that support
 This project demonstrates practical data analytics skills in SQL, Python, data modeling, DAX, data visualization, and business reporting.
 
 *Note: The findings above reflect the current analysis of the project dataset.*
+## Power BI Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](screenshots/Overview.png)
+
+### 2. Product & Category Analysis
+![Product & Category Analysis](screenshots/product_analysis.png)
+
+### 3. Customer & City Analysis
+![Customer & City Analysis](screenshots/customer_city_analysis.png)
+
+### 4. Order & Payment Analysis
+![Order & Payment Analysis](screenshots/order_payment_analysis.png)
+
+### 5. Revenue & Sales Trends
+![Revenue & Sales Trends](screenshots/revenue_trends.png)
+
+### 6. Business Insights & Performance
+![Business Insights & Performance](screenshots/business_insights.png)
